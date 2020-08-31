@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">shapes</string>
+    <string name="areas_tv_rectangle_wight" translatable="false">Wight</string>
+    <string name="areas_tv_rectangle_height" translatable="false">Height</string>
+    <string name="areas_tv_circle_radios" translatable="false">Radios</string>
+    <string name="areas_tv_trangle_base" translatable="false">Base</string>
+    <string name="areas_tv_trangle_height" translatable="false">Height</string>
+    <string name="areas_bt_calculate" translatable="false">calculate</string>
+    <string-array name="shapes">
+        <item>Select Item</item>
+        <item>Rectangle</item>
+        <item>circle</item>
+        <item>Triangle</item>
+    </string-array>
+</resources>

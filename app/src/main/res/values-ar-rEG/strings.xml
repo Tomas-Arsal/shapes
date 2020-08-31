@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">shapes</string>
+    <string name="areas_tv_rectangle_wight">العرض</string>
+    <string name="areas_tv_rectangle_height">الطول</string>
+    <string name="areas_tv_circle_radios">نصف القطر</string>
+    <string name="areas_tv_trangle_base">القاعده</string>
+    <string name="areas_tv_trangle_height">الارتفاع</string>
+    <string name="areas_bt_calculate">الحساب</string>
+    <string-array name="shapes">
+        <item>اختار الشكل</item>
+        <item>مربع</item>
+        <item>دائره</item>
+        <item>مثلث</item>
+    </string-array>
+</resources>
